@@ -11,3 +11,11 @@ function v(val) {
 }
 
 //Evaluate the equation
+function e() {
+	try {
+		d(eval(document.getElementById("d").value));
+	}
+	catch(err) {
+		d("Error");
+	}
+}
