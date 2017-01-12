@@ -4,8 +4,8 @@
 /* Calculator Box */
 .box {
 	background-color: #e5e7ea;
-	height: 300px;
-	width: 250px;
+	height: 330px;
+	width: 300px;
 	border-radius: 10px;
 	position: relative;
 	top:80px;
@@ -15,7 +15,7 @@
 /* Display */
 .display {
 	background-color: #bfc4ce;
-	width: 220px;
+	width: 259px;
 	position: relative;
 	left: 15px;
 	top: 20px;
@@ -26,7 +26,7 @@
 	left: 2px;
 	top: 2px;
 	height: 30px;
-	width: 210px;
+	width: 250px;
 	color: black;
 	background-color: #bccd95;
 	font-size: 21px;
@@ -42,8 +42,8 @@
 	width: 40px;
 	height: 30px;
 	border: none;
-	border-radius: 8px;
-	margin-left: 17px;
+	border-radius: 10px;
+	margin-left: 15px;
 	cursor: pointer;
 	border-top: 2px solid transparent;
 }
@@ -61,7 +61,7 @@
 }
 .button.number {
 	color: white;
-	background-color: #709lab;
+	background-color: #7091ab;
 	border-bottom: black 2px solid;
 	border-top: 2px #6f6f6f solid;
 }
